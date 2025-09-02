@@ -57,4 +57,4 @@ Builds real hypergraphs, fits degree distributions, and computes similarity metr
 
 ## Contact
 For questions, please contact:  
-- **Yichao Yao** – *yaoyichao2000@gmail.com*  
+- **Yichao Yao** – *yichaoyao2000@gmail.com*  
